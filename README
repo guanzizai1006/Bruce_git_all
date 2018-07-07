@@ -8,3 +8,14 @@
 
 2018.07.07
 卢沟桥事变
+
+
+这里再测试一下，更新文件后，是否只需要这一个命令：
+git push  -u origin master //将本地项目更新到github项目上去
+
+
+而在首次远程链接的时候，需要的指令是：
+git remote add origin git@github.com:guanzizai1006/bruce_demo_pack.git
+//远程连接github项目。
+
+
